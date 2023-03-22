@@ -1,0 +1,15 @@
+/Users/a1/RiderProjects/HomeWork4/NumInPow/bin/Debug/net7.0/NumInPow
+/Users/a1/RiderProjects/HomeWork4/NumInPow/bin/Debug/net7.0/NumInPow.deps.json
+/Users/a1/RiderProjects/HomeWork4/NumInPow/bin/Debug/net7.0/NumInPow.runtimeconfig.json
+/Users/a1/RiderProjects/HomeWork4/NumInPow/bin/Debug/net7.0/NumInPow.dll
+/Users/a1/RiderProjects/HomeWork4/NumInPow/bin/Debug/net7.0/NumInPow.pdb
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/NumInPow.csproj.AssemblyReference.cache
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/NumInPow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/NumInPow.AssemblyInfoInputs.cache
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/NumInPow.AssemblyInfo.cs
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/NumInPow.csproj.CoreCompileInputs.cache
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/NumInPow.dll
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/refint/NumInPow.dll
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/NumInPow.pdb
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/NumInPow.genruntimeconfig.cache
+/Users/a1/RiderProjects/HomeWork4/NumInPow/obj/Debug/net7.0/ref/NumInPow.dll

@@ -1,0 +1,15 @@
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/bin/Debug/net7.0/SiracusaHipotesa
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/bin/Debug/net7.0/SiracusaHipotesa.deps.json
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/bin/Debug/net7.0/SiracusaHipotesa.runtimeconfig.json
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/bin/Debug/net7.0/SiracusaHipotesa.dll
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/bin/Debug/net7.0/SiracusaHipotesa.pdb
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/SiracusaHipotesa.csproj.AssemblyReference.cache
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/SiracusaHipotesa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/SiracusaHipotesa.AssemblyInfoInputs.cache
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/SiracusaHipotesa.AssemblyInfo.cs
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/SiracusaHipotesa.csproj.CoreCompileInputs.cache
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/SiracusaHipotesa.dll
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/refint/SiracusaHipotesa.dll
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/SiracusaHipotesa.pdb
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/SiracusaHipotesa.genruntimeconfig.cache
+/Users/a1/RiderProjects/HomeWork4/SiracusaHipotesa/obj/Debug/net7.0/ref/SiracusaHipotesa.dll

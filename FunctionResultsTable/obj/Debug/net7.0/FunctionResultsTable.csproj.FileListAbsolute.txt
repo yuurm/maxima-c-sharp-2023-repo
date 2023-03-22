@@ -1,0 +1,15 @@
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/bin/Debug/net7.0/FunctionResultsTable
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/bin/Debug/net7.0/FunctionResultsTable.deps.json
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/bin/Debug/net7.0/FunctionResultsTable.runtimeconfig.json
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/bin/Debug/net7.0/FunctionResultsTable.dll
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/bin/Debug/net7.0/FunctionResultsTable.pdb
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/FunctionResultsTable.csproj.AssemblyReference.cache
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/FunctionResultsTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/FunctionResultsTable.AssemblyInfoInputs.cache
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/FunctionResultsTable.AssemblyInfo.cs
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/FunctionResultsTable.csproj.CoreCompileInputs.cache
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/FunctionResultsTable.dll
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/refint/FunctionResultsTable.dll
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/FunctionResultsTable.pdb
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/FunctionResultsTable.genruntimeconfig.cache
+/Users/a1/RiderProjects/HomeWork4/FunctionResultsTable/obj/Debug/net7.0/ref/FunctionResultsTable.dll

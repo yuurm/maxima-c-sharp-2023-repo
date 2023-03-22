@@ -1,0 +1,15 @@
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/bin/Debug/net7.0/NumsSquared
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/bin/Debug/net7.0/NumsSquared.deps.json
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/bin/Debug/net7.0/NumsSquared.runtimeconfig.json
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/bin/Debug/net7.0/NumsSquared.dll
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/bin/Debug/net7.0/NumsSquared.pdb
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/NumsSquared.csproj.AssemblyReference.cache
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/NumsSquared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/NumsSquared.AssemblyInfoInputs.cache
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/NumsSquared.AssemblyInfo.cs
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/NumsSquared.csproj.CoreCompileInputs.cache
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/NumsSquared.dll
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/refint/NumsSquared.dll
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/NumsSquared.pdb
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/NumsSquared.genruntimeconfig.cache
+/Users/a1/RiderProjects/HomeWork4/NumsSquared/obj/Debug/net7.0/ref/NumsSquared.dll

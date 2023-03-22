@@ -1,0 +1,15 @@
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/bin/Debug/net7.0/FibonacciNums
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/bin/Debug/net7.0/FibonacciNums.deps.json
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/bin/Debug/net7.0/FibonacciNums.runtimeconfig.json
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/bin/Debug/net7.0/FibonacciNums.dll
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/bin/Debug/net7.0/FibonacciNums.pdb
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/FibonacciNums.csproj.AssemblyReference.cache
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/FibonacciNums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/FibonacciNums.AssemblyInfoInputs.cache
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/FibonacciNums.AssemblyInfo.cs
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/FibonacciNums.csproj.CoreCompileInputs.cache
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/FibonacciNums.dll
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/refint/FibonacciNums.dll
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/FibonacciNums.pdb
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/FibonacciNums.genruntimeconfig.cache
+/Users/a1/RiderProjects/HomeWork4/FibonacciNums/obj/Debug/net7.0/ref/FibonacciNums.dll

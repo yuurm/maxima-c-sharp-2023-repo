@@ -1,0 +1,15 @@
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/bin/Debug/net7.0/DigitsInNumber
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/bin/Debug/net7.0/DigitsInNumber.deps.json
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/bin/Debug/net7.0/DigitsInNumber.runtimeconfig.json
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/bin/Debug/net7.0/DigitsInNumber.dll
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/bin/Debug/net7.0/DigitsInNumber.pdb
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/DigitsInNumber.csproj.AssemblyReference.cache
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/DigitsInNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/DigitsInNumber.AssemblyInfoInputs.cache
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/DigitsInNumber.AssemblyInfo.cs
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/DigitsInNumber.csproj.CoreCompileInputs.cache
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/DigitsInNumber.dll
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/refint/DigitsInNumber.dll
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/DigitsInNumber.pdb
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/DigitsInNumber.genruntimeconfig.cache
+/Users/a1/RiderProjects/HomeWork4/DigitsInNumber/obj/Debug/net7.0/ref/DigitsInNumber.dll

@@ -1,0 +1,15 @@
+/Users/a1/RiderProjects/HomeWork4/Factorial/bin/Debug/net7.0/Factorial
+/Users/a1/RiderProjects/HomeWork4/Factorial/bin/Debug/net7.0/Factorial.deps.json
+/Users/a1/RiderProjects/HomeWork4/Factorial/bin/Debug/net7.0/Factorial.runtimeconfig.json
+/Users/a1/RiderProjects/HomeWork4/Factorial/bin/Debug/net7.0/Factorial.dll
+/Users/a1/RiderProjects/HomeWork4/Factorial/bin/Debug/net7.0/Factorial.pdb
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/Factorial.csproj.AssemblyReference.cache
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfoInputs.cache
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfo.cs
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/Factorial.csproj.CoreCompileInputs.cache
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/Factorial.dll
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/refint/Factorial.dll
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/Factorial.pdb
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/Factorial.genruntimeconfig.cache
+/Users/a1/RiderProjects/HomeWork4/Factorial/obj/Debug/net7.0/ref/Factorial.dll
