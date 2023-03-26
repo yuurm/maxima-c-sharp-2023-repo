@@ -2,6 +2,11 @@
 {
     static void Main(string[] args)
     {
+        CalculateFibonacci();
+    }
+
+    private static void CalculateFibonacci()
+    {
         int a = 0, b = 1, c, n;
 
         Console.Write("n = ");

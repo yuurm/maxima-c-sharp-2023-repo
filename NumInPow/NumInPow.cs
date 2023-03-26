@@ -2,6 +2,11 @@
 {
     static void Main(string[] args)
     {
+        CalculateNumInPow();
+    }
+
+    private static void CalculateNumInPow()
+    {
         int deg;
         double num, res = 1;
         byte i;

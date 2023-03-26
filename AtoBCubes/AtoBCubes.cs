@@ -2,6 +2,11 @@
 {
     static void Main(string[] args)
     {
+        CalculateAToBCubes();
+    }
+
+    private static void CalculateAToBCubes()
+    {
         int a, b, i;
 
         Console.Write("A: ");

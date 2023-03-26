@@ -2,6 +2,11 @@
     {
         static void Main(string[] args)
         {
+            CalculateCollatzConjecture();
+        }
+
+        private static void CalculateCollatzConjecture()
+        {
             int n;
 
             for (int i = 20; i <= 30; i++)

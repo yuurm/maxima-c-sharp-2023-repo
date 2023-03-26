@@ -1,21 +1,24 @@
 ﻿class NaturalNumsSqrs
 {
-    static void Main(string[] args)    
-    {  
+    static void Main(string[] args)
+    {
+        CalculateNatNumsSqrs();
+    }
 
-        Console.Write("Введите предел: "); 
+    private static void CalculateNatNumsSqrs()
+    {
+        Console.Write("Введите предел: ");
 
-        int n = Convert.ToInt32(Console.ReadLine());  
-        int x = 1;    
+        int n = Convert.ToInt32(Console.ReadLine());
+        int x = 1;
 
         int y = 1;
 
-        while (y < n)  
-        {  
-
-            Console.Write($"{y} ");  
-            x++;    
-            y = (int)Math.Pow(x, 2);   
-        }                                                               
-    }                          
+        while (y < n)
+        {
+            Console.Write($"{y} ");
+            x++;
+            y = (int)Math.Pow(x, 2);
+        }
+    }
 }                              

@@ -2,6 +2,11 @@
 {
     static void Main(string[] args)
     {
+        CalculateFactorial();
+    }
+
+    private static void CalculateFactorial()
+    {
         byte n;
         long factorial = 1;
 

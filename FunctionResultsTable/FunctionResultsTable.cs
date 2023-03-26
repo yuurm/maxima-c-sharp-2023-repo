@@ -2,6 +2,11 @@
 {
     static void Main(string[] args)
     {
+        ShowResultTable();
+    }
+
+    private static void ShowResultTable()
+    {
         double x = -5;
         double y;
 
