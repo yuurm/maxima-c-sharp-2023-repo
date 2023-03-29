@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiracusaHipotesa", "Siracus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsInNumber", "DigitsInNumber\DigitsInNumber.csproj", "{68D2F957-B6E3-4B89-BC49-9C58C0252EC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciRecursion", "FibonacciRecursion\FibonacciRecursion.csproj", "{56A2C524-94B7-413C-B421-C09BAD05092B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleMethodDemo", "TupleMethodDemo\TupleMethodDemo.csproj", "{97677C6F-690E-4BA1-9DCB-7D51EE90E79A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{68D2F957-B6E3-4B89-BC49-9C58C0252EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68D2F957-B6E3-4B89-BC49-9C58C0252EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68D2F957-B6E3-4B89-BC49-9C58C0252EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A2C524-94B7-413C-B421-C09BAD05092B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A2C524-94B7-413C-B421-C09BAD05092B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A2C524-94B7-413C-B421-C09BAD05092B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A2C524-94B7-413C-B421-C09BAD05092B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97677C6F-690E-4BA1-9DCB-7D51EE90E79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97677C6F-690E-4BA1-9DCB-7D51EE90E79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97677C6F-690E-4BA1-9DCB-7D51EE90E79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97677C6F-690E-4BA1-9DCB-7D51EE90E79A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
