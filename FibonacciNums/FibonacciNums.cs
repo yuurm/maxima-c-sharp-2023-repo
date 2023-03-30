@@ -2,15 +2,12 @@
 {
     static void Main(string[] args)
     {
-        CalculateFibonacci();
+        CalculateFibonacci(5);
     }
 
-    private static void CalculateFibonacci()
+    private static void CalculateFibonacci(int n)
     {
-        int a = 0, b = 1, c, n;
-
-        Console.Write("n = ");
-        n = int.Parse(Console.ReadLine() ?? string.Empty);
+        int a = 0, b = 1, c;
 
         Console.Write(a + " " + b + " ");
 
@@ -22,6 +19,8 @@
             b = c;
         }
 
-        Console.ReadKey();
+        
     }
+
+
 }

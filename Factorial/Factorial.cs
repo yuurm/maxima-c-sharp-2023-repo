@@ -2,16 +2,12 @@
 {
     static void Main(string[] args)
     {
-        CalculateFactorial();
+        CalculateFactorial(5);
     }
 
-    private static void CalculateFactorial()
+    private static void CalculateFactorial(int n)
     {
-        byte n;
         long factorial = 1;
-
-        Console.Write("n = ");
-        n = byte.Parse(Console.ReadLine()!);
 
         for (byte i = 2; i <= n; i++)
         {
@@ -19,6 +15,7 @@
         }
 
         Console.WriteLine("n! = {0}", factorial);
-        Console.ReadKey();
+        
     }
+
 }

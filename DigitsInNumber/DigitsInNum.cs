@@ -1,23 +1,20 @@
 ﻿class DigitsInNum {
     static void Main(string[] args)
     {
-        CalculateDigitsInNum();
+        ShowDigitsInNum(10);
     }
 
-    private static void CalculateDigitsInNum()
+    private static void ShowDigitsInNum(int n)
     {
-        Console.Write("Введите целое число: ");
-        int n = int.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
-
-
         n = Math.Abs(n);
 
         while (n != 0)
         {
             Console.WriteLine(n % 10);
 
-
             n /= 10;
         }
     }
+
+
 }

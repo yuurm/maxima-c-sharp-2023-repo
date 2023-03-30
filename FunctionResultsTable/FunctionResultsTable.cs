@@ -2,12 +2,12 @@
 {
     static void Main(string[] args)
     {
-        ShowResultTable();
+        ShowResultTable(-5);
     }
 
-    private static void ShowResultTable()
+    private static void ShowResultTable(double x)
     {
-        double x = -5;
+        
         double y;
 
         Console.WriteLine(" x      y  ");
@@ -19,6 +19,7 @@
             x += 0.5;
         }
 
-        Console.ReadKey();
+       
     }
+
 }

@@ -1,5 +1,10 @@
 ﻿public class FibonacciRecursion {
     static Dictionary<int, int> memo = new Dictionary<int, int>() { {0,0}, {1,1} };
+    
+    public static void Main(string[] args) {
+        Console.WriteLine(CalculateRecursiveFibonacci(5));
+        Console.WriteLine(CalculateRecursiveFibonacci(10));
+    }
 
     private static int CalculateRecursiveFibonacci(int n){
         if (!memo.ContainsKey(n)){
@@ -8,8 +13,5 @@
         return memo[n];
     }
 
-    public static void Main(string[] args) {
-        Console.WriteLine(CalculateRecursiveFibonacci(5));
-        Console.WriteLine(CalculateRecursiveFibonacci(10));
-    }
+   
 }

@@ -2,14 +2,14 @@
     {
         static void Main(string[] args)
         {
-            CalculateCollatzConjecture();
+            ShowCollatzConjecture(20, 30);
         }
 
-        private static void CalculateCollatzConjecture()
+        private static void ShowCollatzConjecture(int x, int y)
         {
             int n;
 
-            for (int i = 20; i <= 30; i++)
+            for (int i = x; i <= y; i++)
             {
                 n = i;
                 while (n != 1)
@@ -19,14 +19,14 @@
                     else
                         n = (3 * n + 1) / 2;
 
-                    Console.Write(" |" + n + "|");
+                    Console.Write(" | " + n + " |");
                 }
 
                 Console.WriteLine();
                 Console.WriteLine();
             }
 
-            Console.ReadKey();
+            
         }
     }
 

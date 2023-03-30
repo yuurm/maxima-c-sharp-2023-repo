@@ -2,20 +2,15 @@
 {
     static void Main(string[] args)
     {
-        CalculateNumInPow();
+        CalculateNumInPow(25, 2);
     }
-
-    private static void CalculateNumInPow()
+    
+    
+    
+    private static void CalculateNumInPow(double num, int deg)
     {
-        int deg;
-        double num, res = 1;
-        byte i;
-
-        Console.Write("Число: ");
-        num = double.Parse(Console.ReadLine());
-
-        Console.Write("Степень: ");
-        deg = int.Parse(Console.ReadLine());
+        double res = 1;
+        int i;
 
         for (i = 1; i <= Math.Abs(deg); i++)
         {
@@ -29,6 +24,9 @@
 
         Console.WriteLine(res.ToString("0.000"));
 
-        Console.ReadKey();
+        
     }
+
+
+    
 }

@@ -2,14 +2,11 @@
 {
     static void Main(string[] args)
     {
-        CalculateNatNumsSqrs();
+        CalculateNatNumsSqrs(3);
     }
 
-    private static void CalculateNatNumsSqrs()
+    private static void CalculateNatNumsSqrs(int n)
     {
-        Console.Write("Введите предел: ");
-
-        int n = Convert.ToInt32(Console.ReadLine());
         int x = 1;
 
         int y = 1;
@@ -18,7 +15,8 @@
         {
             Console.Write($"{y} ");
             x++;
-            y = (int)Math.Pow(x, 2);
+            y = (int) Math.Pow(x, 2);
         }
     }
+
 }                              
