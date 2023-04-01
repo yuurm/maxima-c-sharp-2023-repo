@@ -1,4 +1,4 @@
-namespace GometricShape;
+namespace GeometricShape;
 
 public abstract class GeometricShape
 {
