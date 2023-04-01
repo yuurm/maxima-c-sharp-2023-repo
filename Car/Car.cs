@@ -14,14 +14,22 @@ namespace Car
         private int _year;
         private double _mileage;
         private double _fuel;
-        
+        private string _label;
+        private string _series;
+        private string _number;
 
-        public Car( int year, CarColor color, double mileage, double fuel)
+      
+
+
+        public Car( int year, CarColor color, double mileage, double fuel, string label, string series, string number)
         {
             _color = color;
             _year = year;
             _mileage = mileage;
             _fuel = fuel;
+            _label = label;
+            _series = series;
+            _number = number;
         }
 
         public void GoOneMile()
@@ -51,6 +59,20 @@ namespace Car
 
         public void Refuel(int amount) {
             _fuel += amount;
+        }
+
+
+        public string ChangeNumber(string num)
+        {
+            if (this._number != num)
+            {
+                _number = num;
+                
+            }
+            
+            
+            return _number;
+            
         }
 
         

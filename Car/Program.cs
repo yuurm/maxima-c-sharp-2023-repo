@@ -8,7 +8,7 @@ namespace Car
         static void Main(string[] args)
         {
             
-            Car car = new Car(2010, Car.CarColor.Black, 10000, 50);
+            var car = new Car(2010, Car.CarColor.Black, 10000, 50, "mercedes", "600", "k777kk777rus");
             
 
             Console.WriteLine(car.GetCarYear());
@@ -36,6 +36,12 @@ namespace Car
             car.Refuel(1);
             
             Console.WriteLine(car.GetFuel());
+            
+            Console.WriteLine("Enter new number!!!");
+
+           string newNumber =  Console.Read().ToString();
+            
+            Console.WriteLine(car.ChangeNumber(newNumber));
             
             
 
