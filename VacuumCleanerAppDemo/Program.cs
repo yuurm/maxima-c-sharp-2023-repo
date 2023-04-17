@@ -9,15 +9,34 @@ class Program
         {
             new RegularVacuumCleaner { Model = "Samsung 1000" },
             new RobotVacuumCleaner { Model = "iRobot Roomba" },
-            new WetVacuumCleaner { Model = "Karcher FC5" }
+            new WetVacuumCleaner { Model = "Kaercher FC5" }
         };
 
-        // Вызов метода StartCleaning для каждого объекта массива
         foreach (var vacuumCleaner in vacuumCleaners)
         {
-            vacuumCleaner.StartCleaning();
+            try
+            {
+                vacuumCleaner.StartCleaning();
+                vacuumCleaner.CollectDust(50); 
+                Console.WriteLine("Dust collected successfully.");
+
+                if (vacuumCleaner is WetVacuumCleaner)
+                {
+                    ((WetVacuumCleaner)vacuumCleaner).StartCleaning();
+                }
+            }
+            catch (VacuumCleanerException ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+            }
         }
+        
+        
+        
 
         Console.ReadLine();
+        
+        
+        
     }
 }

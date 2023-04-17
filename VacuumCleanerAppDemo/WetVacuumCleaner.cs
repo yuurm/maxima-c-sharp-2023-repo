@@ -7,4 +7,8 @@ public class WetVacuumCleaner : VacuumCleaner
     {
         Console.WriteLine("Wet cleaning started");
     }
+    
+    
+
+    
 }
